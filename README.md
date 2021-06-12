@@ -10,8 +10,7 @@
 ![context](./images/context.png)
 <br><br>
 1. Press the Auto Complete Button.
-<br>
-   
+<br><br>
 ![button](./images/button.png)
 <br><br>
 1. Enjoy the character's dialog!
