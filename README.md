@@ -4,8 +4,9 @@
 
 ### How to use
 1. Choose your favorite Marvel character.
-![choose](./images/Choose.png)
-<br><br>
+![choose](./images/Choose.png){ width=50% height=50%}
+   
+
 1. Write your context
 ![context](./images/context.png)
 <br><br>
