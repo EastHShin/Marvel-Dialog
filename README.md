@@ -4,13 +4,14 @@
 
 ### How to use
 1. Choose your favorite Marvel character.
-![choose](./images/Choose.png){ width=50% height=50%}
-   
-
+![choose](./images/Choose.png)
+<br><br>
 1. Write your context
 ![context](./images/context.png)
 <br><br>
 1. Press the Auto Complete Button.
+<br>
+   
 ![button](./images/button.png)
 <br><br>
 1. Enjoy the character's dialog!
