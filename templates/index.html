@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+            integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+        <script src="../static/index.js"></script>
+
+        <style>
+            .item:hover {
+                color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="jumbotron mt-3">
+                <h1>Marvel Dialog</h1>
+                <p>write your context</p>
+
+                <select id="model" style="margin-bottom: 10px;">
+                    <option value="TONY STARK">Tony Stark</option>
+                    <option value="STEVE ROGERS">Captain America</option>
+                    <option value="THOR">Thor</option>
+                    <option value="PETER PARKER">Spider Man</option>
+                    <option value="NATASHA ROMANOFF">Natasha</option>
+                    <option value="BRUCE BANNER">Bruce Banner</option>
+                </select>
+
+
+
+                <textarea id="context" style="width:70%; height:40%; display: block; margin-bottom: 10px;"></textarea>
+
+                <b>Result</b>
+                <div id="select_box">
+                    <ul style="width:100%">
+                        <li class="item"></li>
+                        <li class="item"></li>
+                        <li class="item"></li>
+                        <li class="item"></li>
+                        <li class="item"></li>
+                        <li class="item"></li>
+                        <li class="item"></li>
+                        <li class="item"></li>
+                    </ul>
+                </div>
+                <button id="btn_autocomplete" class="btn btn-primary" onclick="suggestion()">Auto Complete!</button>
+            </div>
+        </div>
+    </body>
+</html>
