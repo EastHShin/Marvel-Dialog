@@ -10,3 +10,7 @@
 1. Press the Auto Complete Button.
 <br><br>
 1. Enjoy the character's dialog!
+<br>
+   
+### URL
+http://34.66.148.53/
